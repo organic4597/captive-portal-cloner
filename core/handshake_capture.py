@@ -1,6 +1,6 @@
 import subprocess
 
-def capture_handshake(bssid, channel, interface="wlan0mon", output_file="handshake"):
+def capture_handshake(bssid, channel, interface="wlan0", output_file="handshake"):
     try:
         print(f"[*] {bssid} 채널 {channel}에서 핸드쉐이크 캡처 시작")
         subprocess.run([
