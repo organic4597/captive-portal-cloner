@@ -35,7 +35,7 @@ def launch_gui():
         ssid = selected_ap['SSID']
         bssid = selected_ap['BSSID']
         channel = selected_ap['CHAN']
-        interface = "wlan0mon"
+        interface = "wlan0"
         output_file = "handshake"
 
         status_label.configure(text=f"{ssid}에서 deauth 및 handshake 캡처 중...")
