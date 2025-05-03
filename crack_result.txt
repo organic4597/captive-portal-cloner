@@ -1,0 +1,10 @@
+ERROR: Opening dictionary /usr/share/wordlists/rockyou.txt failed (No such file or directory)
+ERROR: Opening dictionary /usr/share/wordlists/rockyou.txt failed (No such file or directory)
+Reading packets, please wait...
+Opening handshake.cap
+[0KRead 0 packets.
+
+No networks found, exiting.
+
+
+Quitting aircrack-ng...
