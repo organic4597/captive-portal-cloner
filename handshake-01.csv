@@ -1,5 +1,7 @@
 
 BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+5C:A6:E6:A8:2D:E9, 2025-05-07 09:12:57, 2025-05-07 09:13:46,  2, 270, WPA2, CCMP, PSK, -38,      378,      375,   0.  0.  0.  0,  12, TP-Link_2DE9, 
 
 Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+D2:CE:2E:26:67:B2, 2025-05-07 09:12:57, 2025-05-07 09:13:46, -57,     1522, 5C:A6:E6:A8:2D:E9,
 
